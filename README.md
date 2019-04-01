@@ -1,2 +1,2 @@
 # Windows-Batch-Scripting
-Small usufullWidnows Bat scripts
+Small usufull Windows Bat scripts
